@@ -1,3 +1,5 @@
+# Facebook post scraper
+Interested in using this scraper? Get it here: [Facebook post scraper](https://apify.com/curious_coder/facebook-post-scraper)
 The Facebook posts scraper is an Apify actor designed to extract facebook posts from a persop, page, group, etc. With this actor, you can effortlessly gather valuable data from Facebook posts for various purposes, such as market research, lead generation, and competitor analysis.
 
 **Main Features:**
